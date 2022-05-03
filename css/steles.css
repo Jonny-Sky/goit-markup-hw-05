@@ -436,7 +436,6 @@ img {
   display: flex;
   justify-content: center;
   margin-left: -30px;
-  /* height: 184px; */
 }
 
 .clients-item {
@@ -455,7 +454,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  fill: #757575;
+  fill: #afb1b8;
   box-sizing: border-box;
   transition: fill var(--time-cubic), border var(--time-cubic);
 }
@@ -470,7 +469,6 @@ img {
 }
 
 .client-icons {
-  /* padding: 16px 32px; */
 }
 
 /*-------------FOOTER-------------- */
