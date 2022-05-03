@@ -421,6 +421,7 @@ img {
 
 .clients {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 .clients-title {
   font-size: 36px;
@@ -435,7 +436,7 @@ img {
   display: flex;
   justify-content: center;
   margin-left: -30px;
-  height: 184px;
+  /* height: 184px; */
 }
 
 .clients-item {
@@ -451,7 +452,7 @@ img {
   width: 170px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
-  display: block;
+  display: flex;
   justify-content: center;
   align-items: center;
   fill: #757575;
@@ -465,11 +466,11 @@ img {
 }
 .clients-link:hover,
 .clients-link:focus .clients-item {
-  border: solid var(--accent-color);
+  border: 1px solid var(--accent-color);
 }
 
 .client-icons {
-  padding: 16px 32px;
+  /* padding: 16px 32px; */
 }
 
 /*-------------FOOTER-------------- */
